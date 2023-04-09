@@ -16,10 +16,10 @@ Install Node v18.15.0.
 ## Features
 
 You can make simple mathematical operations:
-[ ] Add
-[ ] Subtract
-[ ] Multiply
-[ ] Divide
+ + Add
+ - Subtract
+ * Multiply
+ / Divide
 
 ## Acknowledgments
 
@@ -32,6 +32,12 @@ If you run into a problem while learning React, you can find a solution and help
  
  ## Learn React
  
+ If you want to learn React visit:
+ 
  * https://react.dev/learn
+
+## Have a nice day!
+
+
  
  
