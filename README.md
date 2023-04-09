@@ -1,19 +1,19 @@
-#Calculator App.
+# Calculator App.
 
 This is simple calculator app made with React.
 
-##Live version is deployed on: 
+## Live version is deployed on: 
 
   https://kivi-calculator.netlify.app
 
-##Getting started
+## Getting started
 
 Install Node v18.15.0.
 
 1. npm install
 2. npm run start.
 
-##Features
+## Features
 
 You can make simple mathematical operations:
 [ ] Add
@@ -21,7 +21,7 @@ You can make simple mathematical operations:
 [ ] Multiply
 [ ] Divide
 
-##Acknowledgments
+## Acknowledgments
 
 If you run into a problem while learning React, you can find a solution and help on following pages:
 
@@ -30,7 +30,7 @@ If you run into a problem while learning React, you can find a solution and help
  
  ...it helped me a lot, or just Google it...
  
- ##Learn React
+ ## Learn React
  
  * https://react.dev/learn
  
