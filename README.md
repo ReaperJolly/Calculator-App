@@ -1,27 +1,37 @@
-#Calculator App  - simple as it gets. Created with React. 
+#Calculator App.
 
-Visit https://kivi-calculator.netlify.app to try.
+This is simple calculator app made with React.
 
+##Live version is deployed on: 
 
-## Getting Started with Create React App
+  https://kivi-calculator.netlify.app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Getting started
 
-## Available Scripts
+Install Node v18.15.0.
 
-In the project directory, you can run:
+1. npm install
+2. npm run start.
 
-### `npm start`
+##Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+You can make simple mathematical operations:
+[ ] Add
+[ ] Subtract
+[ ] Multiply
+[ ] Divide
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+##Acknowledgments
 
-## Learn More
+If you run into a problem while learning React, you can find a solution and help on following pages:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
+ - https://www.freecodecamp.org/news/building-a-calculator-with-react-hooks-and-react-context-api-debcabbc5f54/
+ - https://reactjsguru.com/how-to-make-calculator-in-react/
+ 
+ ...it helped me a lot, or just Google it...
+ 
+ ##Learn React
+ 
+ * https://react.dev/learn
+ 
+ 
